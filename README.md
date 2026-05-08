@@ -38,5 +38,6 @@ Performed data cleaning, transformation, and modeling for structured reporting
 
 4. Screenshot/ demo
 How it look like:
-Dasboard preview :https://github.com/bhavyajain0408/-Sales-Dashboard/blob/main/snapshot%20of%20report.png
+Dasboard preview (:https://github.com/bhavyajain0408/-Sales-Dashboard/blob/main/snapshot%20of%20report.png)
+
 
